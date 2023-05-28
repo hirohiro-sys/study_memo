@@ -7,7 +7,7 @@ git, linux, django基礎
 
 基本的な英語
 ## 今学期残りやりたいこと
-・html,css,javascript基礎→簡単なwebサイトなんでもいいから作ってみる
+・javascript基礎→簡単なwebサイトなんでもいいから作ってみる
 
 ・基本情報技術者試験の勉強継続(日本帰ったらすぐ受ける)
 
@@ -17,6 +17,6 @@ git, linux, django基礎
 
 ・オブジェクト指向概要
 
-・postgresql入門(できれば)
+・postgresql入門(余裕があったら)
 
 (django等の技術は一旦webの基礎を勉強した後に深掘り)
