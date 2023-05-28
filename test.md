@@ -17,4 +17,6 @@ git, linux, django基礎
 
 ・オブジェクト指向概要
 
+・postgresql入門(できれば)
+
 (django等の技術は一旦webの基礎を勉強した後に深掘り)
