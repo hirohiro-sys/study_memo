@@ -7,15 +7,13 @@ git, linux, django基礎
 
 基本的な英語
 ## 今学期残りやりたいこと
-・html,css基礎やってjavascript基礎に入る
+・javascript基礎
 
 ・基本情報技術者試験の勉強継続(日本帰ったらすぐ受ける)
 
-・aizuonlinejudge40問一通り解く
-
-・atcoderB問題全解き       
+・aizuonlinejudge40問一通り解く & B問題全解き       
                                     
-・c++入門(簡単なc++のコードが理解できるレベルまで)　　
+・atcoderBiginnerSelection解く
 
 ・javaの基礎からオブジェクト指向(継承、多態性、カプセル化、抽象化など)
 
