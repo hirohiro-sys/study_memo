@@ -11,12 +11,10 @@ git, linux, django基礎
 
 ・基本情報技術者試験の勉強継続(日本帰ったらすぐ受ける)
 
-・aizuonlinejudge40問一通り解く & B問題全解き       
-                                    
-・atcoderBiginnerSelection解く
-
-・javaの基礎からオブジェクト指向(継承、多態性、カプセル化、抽象化など)
-
+・aizuonlinejudge40問一通り解く       
+       
 ・英単語毎日
+
+・大学の勉強
 
 (django等の技術は一旦webの基礎を勉強した後に深掘り)
