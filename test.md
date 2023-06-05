@@ -7,11 +7,15 @@ git, linux, django基礎
 
 基本的な英語
 ## 今学期残りやりたいこと
-・javascript基礎
+・html,css,javascript基礎
+
+・postgresql基礎
 
 ・基本情報技術者試験の勉強継続(日本帰ったらすぐ受ける)
 
-・aizuonlinejudge40問一通り解く       
+・aizuonlinejudge40問一通り解く(終わったらキータの茶色コーダになるための4つのガイドライン進める)
+
+・プログラミング習慣(streak継続)
        
 ・英単語毎日
 
