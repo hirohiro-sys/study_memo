@@ -9,7 +9,7 @@ git, linux, django基礎
 
 ・html,css,javascript基礎
 
-・postgresql軽く
+・postgresql軽く　
 
 ・java基礎
 
