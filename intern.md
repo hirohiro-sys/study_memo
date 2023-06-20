@@ -3,7 +3,7 @@
 
 ・python
 
-・gitとgithub
+・gitとgithub　
 
 ・データベースとsql
 
