@@ -1,5 +1,5 @@
 ## インターンまでに触っておく技術等
-・htmlcssjavascript(reactの手前まで)
+・htmlcssjavascript(できればreactもちょっとやりたい)
 
 ・python
 
